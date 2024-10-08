@@ -1,1 +1,5 @@
-
+titles: Show Talebi
+#logo /assests/img/headshot_circle.png
+#description: text below image
+show_download: true
+theme: jekll-theme-minimal
