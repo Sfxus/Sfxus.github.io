@@ -3,7 +3,7 @@
                                                                                                                                  (91) 000000
                                                                                                                                  whitechimpanzee1@gmail.com
 
-### AREAS OF MAJOR EXPERIENCE__________________________________________________________________________________________________________
+### AREAS OF MAJOR EXPERIENCE____________________________________________________________________________________________________________
                             
                               Moderation Skills:
 Experience in handling player disputes and enforcing server rules.
