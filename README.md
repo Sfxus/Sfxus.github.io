@@ -18,7 +18,7 @@ Planning and executing in-game events and competitions.
 Managing logistics and ensuring smooth operation during events.
 
 
-### PROFESSIONAL EXPERIENCE__________________________________________________________________________________________________________________________________________
+### PROFESSIONAL EXPERIENCE____________________________________________________________________________________________________________
 
                               Server Management:
 Setup and Configuration: Experience in setting up and configuring Minecraft servers, including managing plugins and mods.
@@ -33,7 +33,7 @@ Data Protection: Ensuring player data is secure and the server complies with rel
 Cheat Prevention: Implementing measures to detect and prevent cheating and hacking.
 
 
-### OTHER INTERESTS________________________________________________________________________________________________________________________________________________
+### OTHER INTERESTS____________________________________________________________________________________________________________
 
                               Playing Indoor and OutDoor Games
                               Actings in school drama clubs
