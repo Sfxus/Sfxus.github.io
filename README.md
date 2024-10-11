@@ -3,7 +3,7 @@
                                                                                                                                  (91) 000000
                                                                                                                                  whitechimpanzee1@gmail.com
 
-### AREAS OF MAJOR EXPERIENCE____________________________________________________________________________________________________________
+### AREAS OF MAJOR EXPERIENCE______________________________________________________________________________________
                             
                               Moderation Skills:
 Experience in handling player disputes and enforcing server rules.
@@ -18,8 +18,7 @@ Planning and executing in-game events and competitions.
 Managing logistics and ensuring smooth operation during events.
 
 
-### PROFESSIONAL EXPERIENCE____________________________________________________________________________________________________________
-
+### PROFESSIONAL EXPERIENCE______________________________________________________________________________________
                               Server Management:
 Setup and Configuration: Experience in setting up and configuring Minecraft servers, including managing plugins and mods.
 Performance Optimization: Skills in optimizing server performance to reduce lag and ensure smooth gameplay.
@@ -33,8 +32,7 @@ Data Protection: Ensuring player data is secure and the server complies with rel
 Cheat Prevention: Implementing measures to detect and prevent cheating and hacking.
 
 
-### OTHER INTERESTS____________________________________________________________________________________________________________
-
+### OTHER INTERESTS______________________________________________________________________________________
                               Playing Indoor and OutDoor Games
                               Actings in school drama clubs
                               Teaching other students when im free
